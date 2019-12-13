@@ -16,3 +16,4 @@
 - check_it.py里面放的是主要算法的代码
 - sub_variable.py放的是关于变量代换的代码
  
+123
